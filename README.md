@@ -1,4 +1,4 @@
-# Uc Berkeley CS 61A
+# UC Berkeley CS 61A
 
 <img src="scip.png" align="right"/>
 
