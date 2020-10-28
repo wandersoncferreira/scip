@@ -1,6 +1,6 @@
 ;;; https://www.youtube.com/watch?v=4leZ1Ca4f0g
 
-;;; simply scheme: https://people.eecs.berkeley.edu/~bh/ssch27/appendix-running.html
+;;; simply scheme: 
 
 (sentence 'now 'here)
 (first '(got to get you into my life))
