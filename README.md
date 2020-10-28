@@ -1,5 +1,7 @@
 # Uc Berkeley CS 61A
 
+<img src="scip.png" align="right"/>
+
 These video lectures from [Spring
 2010](https://www.youtube.com/watch?v=4leZ1Ca4f0g&list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9&index=1)
 cover the SICP material using Scheme.
@@ -28,7 +30,7 @@ yaourt -S stklos
 and them downloaded the `simply.scm` file from
 [berkeley](https://people.eecs.berkeley.edu/~bh/ssch27/appendix-running.html)
 in order to have the same custom constructs that is presented in the
-lectures.
+lectures. The file is also inside this repository.
 
 I am using Emacs, and needed to perform one more setup:
 

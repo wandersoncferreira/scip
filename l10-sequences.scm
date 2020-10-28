@@ -1,3 +1,4 @@
+;;; how would I implement flatten?
 (define (flatten l)
   (cond
    ((empty? l) '())
@@ -54,6 +55,8 @@
 
 (reverse-list (list 1 2 3 4))
 
+;;; interesting, the reverse function became more readable after using
+;;; the iterative approach.
 (define (reverse-iter seq)
   (define (iter seq result)
     (if (null? seq)
